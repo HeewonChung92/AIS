@@ -6,9 +6,7 @@ It is the AIS code from the second index.
 <br />
 
 <p align="center">
-  <a href="https://github.com/vineeths96/Video-Frame-Prediction">
-    <img src="CreateDatasetCode/fig_dataset.jpg" alt="Dataset" width="300" height="175">
-  </a>
+  <img src="CreateDatasetCode/fig_dataset.jpg" alt="Dataset" width="300" height="175">
 </p>
 > tags : deep learning, tensorflow, keras, AIS 
 
