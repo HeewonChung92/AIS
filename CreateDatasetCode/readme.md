@@ -2,7 +2,7 @@
 The number of codes must come to the first index of the array.
 It is the AIS code from the second index. 
 
-![Dataset](./CreateDatasetCode/fig_dataset.png)
+![Dataset](./CreateDatasetCode/fig_dataset.jpg)
 
 
 ## Run code
