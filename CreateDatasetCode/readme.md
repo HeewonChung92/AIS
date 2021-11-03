@@ -6,8 +6,8 @@ It is the AIS code from the second index.
 
 
 ## Run code
-Download miniData.mat / Function_MakeRegion46.m / Code_CreateRegion46_CalculateISS.m files.
-This is written by matalb. Simply run:
+Download miniData.mat / Function_MakeRegion46.m / Code_CreateRegion46_CalculateISS.m files.   
+This is written by matalb. Simply run:   
 
 ```sh
 Code_CreateRegion46_CalculateISS
