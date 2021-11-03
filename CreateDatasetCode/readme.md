@@ -2,15 +2,7 @@
 The number of codes must come to the first index of the array.
 It is the AIS code from the second index. 
 
-<!-- PROJECT LOGO -->
-<br />
-
-<p align="center">
-  <img src="CreateDatasetCode/fig_dataset.jpg" alt="Dataset" width="300" height="175">
-</p>
-> tags : deep learning, tensorflow, keras, AIS 
-
-![Dataset](./CreateDatasetCode/fig_dataset.jpg)
+![Dataset](https://github.com/HeewonChung92/AIS/blob/main/CreateDatasetCode/fig_dataset.jpg)
 
 
 ## Run code
