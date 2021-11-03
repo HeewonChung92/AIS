@@ -1,5 +1,5 @@
 ## Dataset Structure
-The number of codes must come to the first index of the array.
+The number of codes must come to the first index of the array.   
 It is the AIS code from the second index. 
 
 ![Dataset](https://github.com/HeewonChung92/AIS/blob/main/CreateDatasetCode/fig_dataset.jpg)
